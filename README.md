@@ -2,4 +2,4 @@ npm install
 npm start
 
 
-https://datatable-testing.herokuapp.com/
+datatable-testing434354325.netlify.app
